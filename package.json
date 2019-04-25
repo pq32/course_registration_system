@@ -128,11 +128,16 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pq32/jiuzhangquanzhanke.git"
+    "url": "git+https://github.com/pq32/course_registration_system.git"
   },
-  "author": "",
+  "author": "peidong qi",
   "bugs": {
-    "url": "https://github.com/pq32/jiuzhangquanzhanke/issues"
+    "url": "https://github.com/pq32/course_registration_system/issues"
   },
-  "homepage": "https://github.com/pq32/jiuzhangquanzhanke#readme"
+  "homepage": "https://github.com/pq32/course_registration_system#readme",
+  "keywords": [
+    "course",
+    "registration",
+    "system"
+  ]
 }
